@@ -1,0 +1,42 @@
+header{
+    background-color: black;
+    padding: 5px;
+    color: #ffffff;
+}
+
+.slider{
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.card{
+    background-image: linear-gradient(to right, rgb(194, 65, 194), rgb(172, 172, 206), rgb(143, 210, 248));
+}
+.slider-img{
+    width: 100%;
+    background-size: auto;
+    margin: 0 auto;
+}
+
+.image{
+    width: 200px;
+    height: 200px;
+    float: left;
+    padding: 10px;
+}
+
+.p-text{
+    text-align: justify;
+    column-count: 4;
+    column-rule: 2px solid black;
+    column-fill: auto;
+    column-width: 70px;
+    padding: 10px;
+}
+
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-bottom: 2px;
+}
